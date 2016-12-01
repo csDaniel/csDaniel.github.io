@@ -16,7 +16,8 @@
 title: Daniel OFarrell
 email: ofarreld@oregonstate.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Aspiring programmer interested in all things. 
+  Testing the waters in all things programming. 
+  Surpisingly, it's all still fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://csDaniel.github.io"
 github_username:  csDaniel
