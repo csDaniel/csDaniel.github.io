@@ -1,0 +1,27 @@
+---
+include: nil
+---
+
+/* Supplementary Style Sheet */
+
+
+/*
+* Set the .nav bar to 003900, a deep, dark green
+*/
+
+
+.navi-link:hover {
+  text-decoration: underline;
+}
+
+.navi-header *  {
+  color: yellow;
+  background-color: #f3fff3;
+}
+
+
+
+/*
+* Set the background of the page to f3fff3, a soft mint
+* set the text to white. 
+*/
